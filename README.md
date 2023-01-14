@@ -39,9 +39,9 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Course Videos
 
-1.  [Block 1](https://youtu.be/44qhIBMGMoM)
-2.  [Block 2](https://youtu.be/zIeBfuXxuWs)
-3.  [Block 3](https://youtu.be/ltvTIr4K63s)
+1.  [Block 1](https://youtu.be/44qhIBMGMoM) - COMPLETE
+2.  [Block 2](https://youtu.be/zIeBfuXxuWs) - COMPLETE
+3.  [Block 3](https://youtu.be/ltvTIr4K63s) - COMPLETE
 4.  [Block 4](https://youtu.be/MFoxW07ICKs)
 5.  [Block 5](https://youtu.be/I-TjCtjDs1M)
 
@@ -400,4 +400,3 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 - [patrickd's CARE Report for Sushi's BentoBox Strategies](https://ventral.digital/posts/2022/2/10/secureum-bootcamp-care-audit-sushi-bentobox-strategies)
 - [Epoch∞ - February RACE #4 Quiz Writeup](https://ventral.digital/posts/2022/2/9/secureum-bootcamp-february-race-4)
-
