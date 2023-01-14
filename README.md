@@ -1,27 +1,6 @@
-**All information was original created by** [0xRajeev](https://twitter.com/0xRajeev) that he has developed from other public sources. This content is for the Secureum Epoch0 Bootcamp for Smart Contract auditing. The plan is to grow this over time. Pull requests accepted.
+**All information was original created by** [0xRajeev](https://twitter.com/0xRajeev) that he has developed from other public sources. This content is for the Secureum Epoch0 Bootcamp for Smart Contract auditing.
 
----
-
-Information I would like to add (my wish list):
-
-- [ ] Solidity example where applicable
-- [ ] Add Forge examples for relevant topics
-
-Please report any errors or rendering issues. Happy to accept PR's that improve upon the content.
-
----
-
-The impetus for this project was self-edification as well as providing better accessibility to the content [0xRajeev](https://twitter.com/0xRajeev) has produced. Plus, I really wanted to make some cool graphs and play with Obsidian. :)
-
-If you open this in [Obsidian](https://obsidian.md) you can graph the notes.
-
-![example.jpg](images/example.jpg)
-
----
-
-Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who is in Epoch0: [Link](https://gist.github.com/patrickd-/5000fc1eb3e9d92f555a9ea2af94de54) (Place in the `contracts` folder on Remix)
-
----
+Having spent the past year learning and experimenting with full stack Ethereum blockchain development, I am now independently undertakng Secureums auditing bootcamp, with ambitions of competing in auditing competitions in the future
 
 ---
 
@@ -42,7 +21,7 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 1.  [Block 1](https://youtu.be/44qhIBMGMoM) - COMPLETE
 2.  [Block 2](https://youtu.be/zIeBfuXxuWs) - COMPLETE
 3.  [Block 3](https://youtu.be/ltvTIr4K63s) - COMPLETE
-4.  [Block 4](https://youtu.be/MFoxW07ICKs)
+4.  [Block 4](https://youtu.be/MFoxW07ICKs) - COMPLETE
 5.  [Block 5](https://youtu.be/I-TjCtjDs1M)
 
 ---
