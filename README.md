@@ -88,7 +88,7 @@ Having spent the past year learning and experimenting with full stack Ethereum b
 
 ### Quiz
 
-- [Slot 2 Quiz](quizzes/2.%20Solidity%20101.md)
+- [Slot 2 Quiz](quizzes/2.%20Solidity%20101.md) - COMPLETE
 
 ### Quiz Writeups
 
@@ -110,7 +110,7 @@ Having spent the past year learning and experimenting with full stack Ethereum b
 
 ### Youtube Videos
 
-1.  [Block 1](https://youtu.be/3bFgsmsQXrE)
+1.  [Block 1](https://youtu.be/3bFgsmsQXrE) - COMPLETE
 2.  [Block 2](https://youtu.be/TqMIbouwePE)
 3.  [Block 3](https://youtu.be/C0zBhTgppLQ)
 4.  [Block 4](https://youtu.be/L_9Fk6HRwpU)
