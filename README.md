@@ -128,13 +128,13 @@ Having spent the past year learning and experimenting with full stack Ethereum b
 
 1. Understand all the OpenZeppelin Library contracts (many of which are widely-used): [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts") - COMPLETE
 2. Understand Solidity syntax and semantics implemented in Uniswap V3 contracts and related dependencies: [https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts](https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts "https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts") - COMPLETE
-3. Understand Solidity syntax and semantics implemented in Fei Protocol contracts and related dependencies: [https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts "https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts")
-4. Understand Solidity syntax and semantics implemented in Chainlink contracts and related dependencies: [https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4](https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4 "https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4")
-5. Understand Solidity syntax and semantics implemented in Opyn Gamma Protocol contracts and related dependencies: [https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core](https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core "https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core")
+3. Understand Solidity syntax and semantics implemented in Fei Protocol contracts and related dependencies: [https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts "https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts") - COMPLETE
+4. Understand Solidity syntax and semantics implemented in Chainlink contracts and related dependencies: [https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4](https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4 "https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4") - COMPLETE
+5. Understand Solidity syntax and semantics implemented in Opyn Gamma Protocol contracts and related dependencies: [https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core](https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core "https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core") - COMPLETE
 
 ### Quiz
 
-- [Slot 3 Quiz](quizzes/3.%20Solidity%20201.md)
+- [Slot 3 Quiz](quizzes/3.%20Solidity%20201.md) - COMPLETE
 
 ### Quiz Writeups
 
@@ -154,7 +154,7 @@ Having spent the past year learning and experimenting with full stack Ethereum b
 
 ### Youtube Videos
 
-1.  [Block 1](https://youtu.be/OOzyoaYIw2k)
+1.  [Block 1](https://youtu.be/OOzyoaYIw2k) - COMPLETE
 2.  [Block 2](https://youtu.be/fgXuHaZDenU)
 3.  [Block 3](https://youtu.be/YVewx1xVROE)
 4.  [Block 4](https://youtu.be/byA3MLLiKMM)
