@@ -158,7 +158,7 @@ Having spent the past year learning and experimenting with full stack Ethereum b
 2.  [Block 2](https://youtu.be/fgXuHaZDenU) - COMPLETE
 3.  [Block 3](https://youtu.be/YVewx1xVROE) - COMPLETE
 4.  [Block 4](https://youtu.be/byA3MLLiKMM) - COMPLETE
-5.  [Block 5](https://youtu.be/vyWLO5Dlg50)
+5.  [Block 5](https://youtu.be/vyWLO5Dlg50) - COMPLETE
 
 ---
 
