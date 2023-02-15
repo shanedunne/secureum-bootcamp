@@ -219,7 +219,7 @@ Having spent the past year learning and experimenting with full stack Ethereum b
 1. Read [https://samczsun.com/so-you-want-to-use-a-price-oracle/](https://samczsun.com/so-you-want-to-use-a-price-oracle/ "https://samczsun.com/so-you-want-to-use-a-price-oracle/") and [https://samczsun.com/the-dangers-of-surprising-code/](https://samczsun.com/the-dangers-of-surprising-code/ "https://samczsun.com/the-dangers-of-surprising-code/") - COMPLETE
 2. Watch “Security By Design & Smart Contract Audits” by Shayan Eskandari, Ex-ConsenSys Diligence: [https://www.youtube.com/watch?v=gfD1KBtLWZI](https://www.youtube.com/watch?v=gfD1KBtLWZI "https://www.youtube.com/watch?v=gfD1KBtLWZI") - COMPLETE
 3. Watch “How to Build Secure Smart Contracts” by Josselin Feist (@Josselin Feist - Trail of Bits), Trail of Bits: [https://www.youtube.com/watch?v=yP01yH4plT8](https://www.youtube.com/watch?v=yP01yH4plT8 "https://www.youtube.com/watch?v=yP01yH4plT8")
-4. Watch “White Hat Panel: DeFi Exploits”: [https://www.youtube.com/watch?v=Df2zzfoTfMc](https://www.youtube.com/watch?v=Df2zzfoTfMc "https://www.youtube.com/watch?v=Df2zzfoTfMc")
+4. Watch “White Hat Panel: DeFi Exploits”: [https://www.youtube.com/watch?v=Df2zzfoTfMc](https://www.youtube.com/watch?v=Df2zzfoTfMc "https://www.youtube.com/watch?v=Df2zzfoTfMc") - COMPLETE
 5. Attempt CTF: [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/ "https://www.damnvulnerabledefi.xyz/")
 
 ---
