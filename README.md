@@ -226,7 +226,7 @@ Having spent the past year learning and experimenting with full stack Ethereum b
 
 ### Quiz
 
-- [Slot 5 quiz](quizzes/5.%20Pitfalls%20and%20Best%20Practices%20201.md)
+- [Slot 5 quiz](quizzes/5.%20Pitfalls%20and%20Best%20Practices%20201.md) - COMPLETE
 
 ### Quiz Writeups
 
