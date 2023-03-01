@@ -263,7 +263,7 @@ Having spent the past year learning and experimenting with full stack Ethereum b
 ### Assignment
 
 1. Read the following:
-   1. How to Prepare for a Smart Contract Audit: [https://consensys.net/diligence/blog/2019/09/how-to-prepare-for-a-smart-contract-audit/](https://consensys.net/diligence/blog/2019/09/how-to-prepare-for-a-smart-contract-audit/)
+   1. How to Prepare for a Smart Contract Audit: [https://consensys.net/diligence/blog/2019/09/how-to-prepare-for-a-smart-contract-audit/](https://consensys.net/diligence/blog/2019/09/how-to-prepare-for-a-smart-contract-audit/) - COMPLETE
    2. What is a Security Audit, When You Should Get One, and How to Prepare (by @petty) : [https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/](https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/)
    3. 246 Findings From our Smart Contract Audits: An Executive Summary: [https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/)
 2. Run MythX on Fei Protocol contracts and analyze the reported findings: [https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts)
