@@ -268,8 +268,8 @@ Having spent the past year learning and experimenting with full stack Ethereum b
    3. 246 Findings From our Smart Contract Audits: An Executive Summary: [https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/) - COMPLETE
 2. Run MythX on Fei Protocol contracts and analyze the reported findings: [https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts) - COMPLETE
 3. Run Slither on Uniswap V3 contracts and analyze the reported findings: [https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts](https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts)
-4. Watch “The Evolution of Smart Contract Security” by Dan Guido, Trail of Bits: [https://www.youtube.com/watch?v=fOkQuNzVn_Q](https://www.youtube.com/watch?v=fOkQuNzVn_Q)
-5. Attempt Paradigm CTF: [https://github.com/paradigm-operations/paradigm-ctf-2021](https://github.com/paradigm-operations/paradigm-ctf-2021)
+4. Watch “The Evolution of Smart Contract Security” by Dan Guido, Trail of Bits: [https://www.youtube.com/watch?v=fOkQuNzVn_Q](https://www.youtube.com/watch?v=fOkQuNzVn_Q) - COMPLETE
+5. Attempt Paradigm CTF: [https://github.com/paradigm-operations/paradigm-ctf-2021](https://github.com/paradigm-operations/paradigm-ctf-2021) - Ongoing
 
 ---
 
